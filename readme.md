@@ -95,3 +95,9 @@ nemo -q
 2. Select one or more files of the same type.
 3. Right-click and choose **"Convert File..."** or **"Compress PDF..."**.
 4. Follow the on-screen prompts to choose your target format or quality level.
+
+## More Information about Nemo Action
+
+You can find more information about Nemo at:
+
+[](https://github.com/linuxmint/nemo/blob/master/files/usr/share/nemo/actions/sample.nemo_action)

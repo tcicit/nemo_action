@@ -1,0 +1,10 @@
+[Nemo Action]
+Name=Dateikonvertierung auswählen...
+Comment=Konvertiert Dateien in verschiedene Formate (Markdown, CSV, HTML, ODT)
+Exec=<scripts/tci_converter.sh %F>
+Icon-Name=libreoffice-base
+Selection=any
+MimeTypes=text/markdown;text/csv;text/html;application/vnd.oasis.opendocument.text;application/vnd.openxmlformats-officedocument.wordprocessingml.document;
+Extensions=md;markdown;csv;html;htm;odt;docx;jpg;png;
+Dependencies=pandoc;zenity;
+Terminal=false

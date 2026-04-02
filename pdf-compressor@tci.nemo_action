@@ -1,0 +1,10 @@
+[Nemo Action]
+Name=PDF komprimieren
+Comment=Komprimiere das ausgewählte PDF-Dokument
+Exec=<scripts/compress_pdf.sh %F>
+Icon-Name=document-save
+Selection=any
+Extensions=pdf;
+Mimetypes=application/pdf;
+Quote=double
+EscapeSpaces=true

@@ -100,4 +100,4 @@ nemo -q
 
 You can find more information about Nemo at:
 
-[](https://github.com/linuxmint/nemo/blob/master/files/usr/share/nemo/actions/sample.nemo_action)
+[Link to Nemo Documentation](https://github.com/linuxmint/nemo/blob/master/files/usr/share/nemo/actions/sample.nemo_action)
